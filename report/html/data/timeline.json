@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20190627CIWX",
+    "children" : [ {
+      "name" : "840-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_login[1323111-12346]",
+        "uid" : "33e38a4c7f516571",
+        "parentUid" : "7715a6bf5254de9b5542df2c2837d542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571731012770,
+          "stop" : 1571731043838,
+          "duration" : 31068
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7715a6bf5254de9b5542df2c2837d542"
+    } ],
+    "uid" : "3fac2071a4bff3ffe76258f597bf6883"
+  } ]
+}
